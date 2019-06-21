@@ -1,0 +1,221 @@
+OBJECTID,USA_SUB_NA,MAX_CAN_MDA,MAX_CAN_SDA,MAX_NAW1_EN,MAX_NAW2_EN,MAX_NAW3_EN,MAX_NAW4_EN,MAX_USA_ACC,MAX_USA_ACC_NA,MAX_USA_REG,MAX_USA_REG_NA,Shape_Length,Shape_Area
+2,Alabama, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Coosa-Tallapoosa,31502,Coosa-Tallapoosa,3,South Atlantic-Gulf Region,1544120.976405542576686,58835211773.499641418457031
+3,Allegheny, , ,Gulf of Mexico,Mississippi River system,Ohio River,Allegheny,50100,Allegheny,5,Ohio Region,988005.402884063543752,30200159555.988670349121094
+4,Altamaha-St. Marys, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,St. Marys-Satilla,30702,St. Marys-Satilla,3,South Atlantic-Gulf Region,1784689.168472109129652,52478988710.398094177246094
+5,Androscoggin, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Androscoggin,10400,Androscoggin,1,New England Region,608881.674020488397218,9052121181.057685852050781
+6,Apalachicola, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Apalachicola,31300,Apalachicola,3,South Atlantic-Gulf Region,1896739.855482488404959,52407139376.196220397949219
+7,Arctic Alaska, , ,Arctic Ocean,Arctic Ocean Seaboard, ,Western Arctic,190605,Western Arctic,19,Alaska Region,3695657.744496916886419,202124274513.706726074218750
+8,Arkansas-Keystone, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Arkansas - Keystone,110600,Arkansas - Keystone,11,Arkansas-White-Red Region,988556.817947026458569,25580476223.333457946777344
+9,Bear, , ,Pacific Ocean,Great Basin, ,Upper Bear,160102,Upper Bear,16,Great Basin Region,921776.696894791559316,19390738023.329494476318359
+10,Big Horn, , ,Gulf of Mexico,Mississippi River system,Missouri River,Big Horn,100800,Big Horn,10,Missouri Region,1389192.230760574806482,59248176865.694808959960938
+11,Big Sandy-Guyandotte, , ,Gulf of Mexico,Mississippi River system,Ohio River,Guyandotte,50702,Guyandotte,5,Ohio Region,820992.248082852340303,15532064716.232646942138672
+12,Black Rock Desert-Humboldt, , ,Pacific Ocean,Great Basin, ,Humboldt,160402,Humboldt,16,Great Basin Region,2619380.932363896630704,74155021543.327514648437500
+13,Boeuf-Tensas, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Boeuf-Tensas,80500,Boeuf-Tensas,8,Lower Mississippi Region,901793.531680873362347,13576209354.512235641479492
+14,Brazos Headwaters, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Brazos Headwaters,120500,Brazos Headwaters,12,Texas-Gulf Region,1041016.058515983750112,37373639773.780540466308594
+15,Cape Fear, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Cape Fear,30300,Cape Fear,3,South Atlantic-Gulf Region,1236040.669480674201623,25012291184.805206298828125
+16,Central California Coastal, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Central California Coastal,180600,Central California Coastal,18,California Region,1374476.966033729724586,29868825914.779357910156250
+17,Central Lahontan, , ,Pacific Ocean,Great Basin, ,Walker,160503,Walker,16,Great Basin Region,1291480.662478145910427,32859577816.339565277099609
+18,Central Nevada Desert Basins, , ,Pacific Ocean,Great Basin, ,Central Nevada Desert Basins,160600,Central Nevada Desert Basins,16,Great Basin Region,3745716.834335734602064,123611848583.652725219726563
+19,Central Texas Coastal, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,San Antonio,121004,San Antonio,12,Texas-Gulf Region,1745777.947655321331695,44284473200.816017150878906
+20,Chariton-Grand, , ,Gulf of Mexico,Mississippi River system,Missouri River,Grand,102802,Grand,10,Missouri Region,877233.672053417772986,28434724541.208370208740234
+21,Cheyenne, , ,Gulf of Mexico,Mississippi River system,Missouri River,Cheyenne,101202,Cheyenne,10,Missouri Region,1277550.518773239105940,62572904226.022552490234375
+22,Chippewa, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Chippewa,70500,Chippewa,7,Upper Mississippi Region,904540.491821646457538,24741993722.232154846191406
+23,Choctawhatchee-Escambia, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Florida Panhandle Coastal,31403,Florida Panhandle Coastal,3,South Atlantic-Gulf Region,1842345.343653035582975,37259710314.487655639648438
+24,Chowan-Roanoke, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Roanoke,30102,Roanoke,3,South Atlantic-Gulf Region,2418003.796760370489210,45310811899.471435546875000
+25,Colorado Headwaters, , ,Pacific Ocean,Colorado River, ,Colorado Headwaters,140100,Colorado Headwaters,14,Upper Colorado Region,1018977.258865398936905,25534366012.064781188964844
+26,Connecticut, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Upper Connecticut,10802,Upper Connecticut,1,New England Region,1302185.296289193443954,28890381927.866539001464844
+27,Connecticut Coastal, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Connecticut Coastal,11000,Connecticut Coastal,1,New England Region,1016321.415180454845540,12112501734.823575973510742
+28,Cumberland, , ,Gulf of Mexico,Mississippi River system,Ohio River,Upper Cumberland,51302,Upper Cumberland,5,Ohio Region,1719503.412636943394318,46312842807.424873352050781
+29,Delaware, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Upper Delaware,20403,Upper Delaware,2,Mid Atlantic Region,1814935.637837083311751,38214083403.162803649902344
+30,Des Moines, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Des Moines,71000,Des Moines,7,Upper Mississippi Region,1632891.563163095153868,37335286960.881561279296875
+31,Eastern Lake Erie-Lake Erie, , ,Atlantic Ocean,St. Lawrence River, ,Southwestern Lake Ontario,41202,Lake Erie,4,Great Lakes Region,1515891.221279291203246,20909720846.892608642578125
+32,Edisto-Santee, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Santee,30502,Santee,3,South Atlantic-Gulf Region,1686406.724711223738268,59334449584.516281127929688
+33,Elkhorn, , ,Gulf of Mexico,Mississippi River system,Missouri River,Elkhorn,102200,Elkhorn,10,Missouri Region,918163.683106287498958,18047266064.658351898193359
+34,Escalante Desert-Sevier Lake, , ,Pacific Ocean,Great Basin, ,Escalante Desert-Sevier Lake,160300,Escalante Desert-Sevier Lake,16,Great Basin Region,1155554.110372837632895,42475584066.485923767089844
+35,Galveston Bay-San Jacinto, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,San Jacinto,120402,San Jacinto,12,Texas-Gulf Region,1258344.552450099494308,18797586874.947097778320313
+36,Gasconade-Osage, , ,Gulf of Mexico,Mississippi River system,Missouri River,Osage,102902,Osage,10,Missouri Region,1356415.622887934558094,48505208255.293052673339844
+37,Great Divide-Upper Green, , ,Pacific Ocean,Colorado River, ,Upper Green,140402,Upper Green,14,Upper Colorado Region,1382344.004972349386662,53935113020.216300964355469
+38,Great Miami, , ,Gulf of Mexico,Mississippi River system,Ohio River,Great Miami,50800,Great Miami,5,Ohio Region,635000.175246946630068,13967849967.165336608886719
+39,Great Salt Lake, , ,Pacific Ocean,Great Basin, ,Weber,160203,Weber,16,Great Basin Region,1878718.784239597851411,74382171018.376632690429688
+40,Green, , ,Gulf of Mexico,Mississippi River system,Ohio River,Green,51100,Green,5,Ohio Region,880425.502734147477895,23872194239.034461975097656
+41,Gunnison, , ,Pacific Ocean,Colorado River, ,Gunnison,140200,Gunnison,14,Upper Colorado Region,728580.344935157336295,20774000250.373813629150391
+42,Hawaii, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Hawaii,200100,Hawaii,20,Hawaii Region,467653.547381042444613,10457731036.129873275756836
+43,James, , ,Gulf of Mexico,Mississippi River system,Missouri River,James-Missouri,101600,James,10,Missouri Region,1741069.118171134963632,54952150999.830337524414063
+44,Kahoolawe, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Kahoolawe,200300,Kahoolawe,20,Hawaii Region,44711.665870218552300,120927308.421915203332901
+45,Kanawha, , ,Gulf of Mexico,Mississippi River system,Ohio River,Kanawha,50500,Kanawha,5,Ohio Region,1341713.531176132848486,31556379349.017898559570313
+46,Kansas, , ,Gulf of Mexico,Mississippi River system,Missouri River,Kansas,102702,Kansas,10,Missouri Region,1302657.759110486833379,39363822885.791213989257813
+47,Kauai, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Kauai,200700,Kauai,20,Hawaii Region,145908.949914905679179,1461754894.619550704956055
+48,Kennebec, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Kennebec,10300,Kennebec,1,New England Region,821589.031838400871493,15225702079.675428390502930
+49,Kentucky-Licking, , ,Gulf of Mexico,Mississippi River system,Ohio River,Licking,51002,Licking,5,Ohio Region,961331.859898084192537,27652605600.298919677734375
+50,Klamath-Northern California Coastal, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Northern California Coastal,180102,Northern California Coastal,18,California Region,1983297.791553347837180,64681777037.423667907714844
+51,Kootenai-Pend Oreille-Spokane, , ,Pacific Ocean,Columbia River, ,Spokane,170103,Spokane,17,Pacific Northwest Region,1915435.494043956277892,93803081415.686630249023438
+52,Lanai, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Lanai,200400,Lanai,20,Hawaii Region,78978.106869374008966,367646970.175731122493744
+53,Little Colorado, , ,Pacific Ocean,Colorado River, ,Little Colorado,150200,Little Colorado,15,Lower Colorado Region,1474820.983053790172562,69439277457.901199340820313
+54,Louisiana Coastal, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Calcasieu-Mermentau,80802,Calcasieu-Mermentau,8,Lower Mississippi Region,1144209.242254711454734,34322194101.939388275146484
+55,Loup, , ,Gulf of Mexico,Mississippi River system,Missouri River,Loup,102100,Loup,10,Missouri Region,1138192.525302119785920,39155870161.272483825683594
+56,Lower Arkansas, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Robert S. Kerr Reservoir,111102,Robert S. Kerr Reservoir,11,Arkansas-White-Red Region,1625878.655670839827508,41121411263.760665893554688
+57,Lower Brazos, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Lower Brazos,120702,Lower Brazos,12,Texas-Gulf Region,1477236.223446293035522,40214041561.923324584960938
+58,Lower Canadian, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Middle Canadian,110902,Middle Canadian,11,Arkansas-White-Red Region,2554807.123988507315516,44090544311.337936401367188
+59,Lower Chesapeake, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Lower Chesapeake,20802,Lower Chesapeake,2,Mid Atlantic Region,2475526.037069288082421,43070075803.894500732421875
+60,Lower Cimarron, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Lower Cimarron,110500,Lower Cimarron,11,Arkansas-White-Red Region,936378.721469533396885,18427754798.308032989501953
+61,Lower Colorado, , ,Pacific Ocean,Colorado River, ,Lower Colorado,150302,Lower Colorado,15,Lower Colorado Region,1587291.906600299989805,44523394411.257865905761719
+62,Lower Colorado-Lake Mead, , ,Pacific Ocean,Colorado River, ,Lower Colorado-Lake Mead,150100,Lower Colorado-Lake Mead,15,Lower Colorado Region,2249580.572325928136706,78532812533.831207275390625
+63,Lower Colorado-San Bernard Coastal, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,San Bernard Coastal,120904,San Bernard Coastal,12,Texas-Gulf Region,2195654.173962083645165,73155609327.509490966796875
+64,Lower Columbia, , ,Pacific Ocean,Columbia River, ,Lower Columbia,170800,Lower Columbia,17,Pacific Northwest Region,1027233.539938200498000,14989002734.187456130981445
+65,Lower Gila, , ,Pacific Ocean,Colorado River, ,Lower Gila-Agua Fria,150702,Lower Gila-Agua Fria,15,Lower Colorado Region,1097419.286651541013271,39203345873.679100036621094
+66,Lower Green, , ,Pacific Ocean,Colorado River, ,Lower Green,140600,Lower Green,14,Upper Colorado Region,1038480.343229857273400,37560641505.711624145507813
+67,Lower Hudson-Long Island, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Lower Hudson,20302,Lower Hudson,2,Mid Atlantic Region,1323766.097600432345644,11278716316.277458190917969
+68,Lower Illinois, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Lower Illinois,71300,Lower Illinois,7,Upper Mississippi Region,1097636.924152662046254,46339509841.219436645507813
+69,Lower Mississippi, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Lower Mississippi-New Orleans,80903,Lower Mississippi-New Orleans,8,Lower Mississippi Region,2101467.830749156419188,18990172143.362213134765625
+70,Lower Mississippi-Big Black, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Lower Mississippi-Natchez,80602,Lower Mississippi-Natchez,8,Lower Mississippi Region,1023212.655741964466870,18301264476.301246643066406
+71,Lower Mississippi-Hatchie, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Hatchie-Obion,80102,Hatchie-Obion,8,Lower Mississippi Region,948309.741271670907736,25837549963.694519042968750
+72,Lower Mississippi-Lake Maurepas, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Lower Mississippi-Baton Rouge,80703,Lower Mississippi-Baton Rouge,8,Lower Mississippi Region,615445.656338369008154,15138284134.125894546508789
+73,Lower Mississippi-St. Francis, , ,Gulf of Mexico,Mississippi River system,Mississippi River,St. Francis,80204,St. Francis,8,Lower Mississippi Region,1587926.317859000060707,43343485492.165786743164063
+74,Lower Mississippi-Yazoo, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Yazoo,80302,Yazoo,8,Lower Mississippi Region,1017339.500521615962498,36585233309.943023681640625
+75,Lower Missouri, , ,Gulf of Mexico,Mississippi River system,Missouri River,Lower Missouri-Blackwater,103002,Lower Missouri-Blackwater,10,Missouri Region,1227793.284076451789588,26763166911.075000762939453
+76,Lower Ohio, , ,Gulf of Mexico,Mississippi River system,Ohio River,Lower Ohio-Salt,51402,Lower Ohio-Salt,5,Ohio Region,1618526.254856743849814,32781434376.704345703125000
+77,Lower Pecos, , ,Gulf of Mexico,Rio Grande, ,Lower Pecos,130700,Lower Pecos,13,Rio Grande Region,1366041.779905305476859,53653152626.146125793457031
+78,Lower Red-Ouachita, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Ouachita,80403,Upper Ouachita,8,Lower Mississippi Region,1570360.102662906982005,53314681324.728759765625000
+79,Lower Rio Grande, , ,Gulf of Mexico,Rio Grande, ,Lower Rio Grande,130900,Lower Rio Grande,13,Rio Grande Region,583918.459125932771713,3401696004.445483684539795
+80,Lower Snake, , ,Pacific Ocean,Columbia River, ,Salmon,170603,Salmon,17,Pacific Northwest Region,2340500.299941921140999,90581520757.304611206054688
+81,Lower Tennessee, , ,Gulf of Mexico,Mississippi River system,Ohio River,Lower Tennessee,60400,Lower Tennessee,6,Tennessee Region,1028708.270310634397902,20904177048.438087463378906
+82,Lower Yellowstone, , ,Gulf of Mexico,Mississippi River system,Missouri River,Lower Yellowstone,101000,Lower Yellowstone,10,Missouri Region,1439350.007544639520347,35793061481.279708862304688
+83,Maine Coastal, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Maine Coastal,10500,Maine Coastal,1,New England Region,1730845.652496944414452,13804669569.140005111694336
+84,Massachusetts-Rhode Island Coastal., , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Massachusetts-Rhode Island Coastal.,10900,Massachusetts-Rhode Island Coastal.,1,New England Region,1466240.280602043727413,11142329545.250684738159180
+85,Maui, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Maui,200200,Maui,20,Hawaii Region,214251.432301973167341,1912628452.786438226699829
+86,Merrimack, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Merrimack,10700,Merrimack,1,New England Region,701073.105684424052015,12874564907.863471984863281
+87,Middel Arkansas, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Middle Arkansas,110300,Middle Arkansas,11,Arkansas-White-Red Region,1451562.409359459066764,52791227928.090553283691406
+88,Middle Brazos, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Middle Brazos-Clear Fork,120602,Middle Brazos-Clear Fork,12,Texas-Gulf Region,1336873.812763471156359,40567384312.715583801269531
+89,Middle Columbia, , ,Pacific Ocean,Columbia River, ,Middle Columbia,170703,Middle Columbia,17,Pacific Northwest Region,1674222.968151828506961,77163460985.672378540039063
+90,Middle Gila, , ,Pacific Ocean,Colorado River, ,Santa Cruz,150503,Santa Cruz,15,Lower Colorado Region,1027072.879677011165768,43958209870.178543090820313
+91,Middle Ohio, , ,Gulf of Mexico,Mississippi River system,Ohio River,Middle Ohio-Raccoon,50902,Middle Ohio-Raccoon,5,Ohio Region,1508386.910564107820392,23047433347.760150909423828
+92,Middle Snake, , ,Pacific Ocean,Columbia River, ,Middle Snake-Powder,170502,Middle Snake-Powder,17,Pacific Northwest Region,1846557.312937253853306,95585251837.651870727539063
+93,Middle Tennessee-Elk, , ,Gulf of Mexico,Mississippi River system,Ohio River,Middle Tennessee-Elk,60300,Middle Tennessee-Elk,6,Tennessee Region,892120.396155738388188,26834063235.678707122802734
+94,Middle Tennessee-Hiwassee, , ,Gulf of Mexico,Mississippi River system,Ohio River,Middle Tennessee-Hiwassee,60200,Middle Tennessee-Hiwassee,6,Tennessee Region,849319.599157370743342,13447340928.334878921508789
+95,Milk, , ,Gulf of Mexico,Mississippi River system,Missouri River,Milk,100500,Milk,10,Missouri Region,1479328.124283999437466,38789613967.775962829589844
+96,Minnesota, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Minnesota,70200,Minnesota,7,Upper Mississippi Region,1560501.864965663757175,43797721203.534561157226563
+97,Mississippi Headwaters, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Crow-Rum,70102,Upper Mississippi-Crow-Rum,7,Upper Mississippi Region,1424077.494230034761131,51863246856.402610778808594
+98,Missouri-Big Sioux, , ,Gulf of Mexico,Mississippi River system,Missouri River,Lewis and Clark Lake,101702,Lewis and Clark Lake,10,Missouri Region,1410339.388626213418320,37744340437.363655090332031
+99,Missouri-Little Missouri, , ,Gulf of Mexico,Mississippi River system,Missouri River,Little Missouri,101102,Little Missouri,10,Missouri Region,1684312.943243370391428,44300696217.778503417968750
+100,Missouri-Little Sioux, , ,Gulf of Mexico,Mississippi River system,Missouri River,Missouri-Little Sioux,102300,Missouri-Little Sioux,10,Missouri Region,883180.347931074677035,24011047833.801227569580078
+101,Missouri-Marias, , ,Gulf of Mexico,Mississippi River system,Missouri River,Upper Missouri,100302,Upper Missouri,10,Missouri Region,1257514.039189225761220,51302752679.387496948242188
+102,Missouri-Musselshell, , ,Gulf of Mexico,Mississippi River system,Missouri River,Musselshell,100402,Musselshell,10,Missouri Region,1379790.394679715158418,60523794907.687828063964844
+103,Missouri-Nishnabotna, , ,Gulf of Mexico,Mississippi River system,Missouri River,Missouri-Nishnabotna,102400,Missouri-Nishnabotna,10,Missouri Region,1050626.925276253372431,34925851053.743850708007813
+104,Missouri-Oahe, , ,Gulf of Mexico,Mississippi River system,Missouri River,Lake Oahe,101303,Lake Oahe,10,Missouri Region,1591176.552082958864048,95727087734.982727050781250
+105,Missouri-Poplar, , ,Gulf of Mexico,Mississippi River system,Missouri River,Missouri-Poplar,100600,Missouri-Poplar,10,Missouri Region,935913.173103740438819,27869272638.711494445800781
+106,Missouri-White, , ,Gulf of Mexico,Mississippi River system,Missouri River,White,101402,White,10,Missouri Region,1488992.029599493136629,52246891872.581985473632813
+107,Missouri Headwaters, , ,Gulf of Mexico,Mississippi River system,Missouri River,Missouri Headwaters,100200,Missouri Headwaters,10,Missouri Region,1175119.867869658162817,36284692566.589599609375000
+108,Mobile-Tombigbee, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Mobile Bay-Tombigbee,31602,Mobile Bay-Tombigbee,3,South Atlantic-Gulf Region,1702474.359142949571833,55672745915.088783264160156
+109,Molokai, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Molokai,200500,Molokai,20,Hawaii Region,140227.027661992033245,669559208.211034417152405
+110,Monongahela, , ,Gulf of Mexico,Mississippi River system,Ohio River,Monongahela,50200,Monongahela,5,Ohio Region,780417.215334463282488,19044420131.802947998046875
+111,Muskingum, , ,Gulf of Mexico,Mississippi River system,Ohio River,Muskingum,50400,Muskingum,5,Ohio Region,753901.135829601204023,20957848947.316749572753906
+112,Neches, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Neches,120200,Neches,12,Texas-Gulf Region,956262.171018916647881,25912437174.659736633300781
+113,Neosho-Verdigris, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Verdigris,110702,Verdigris,11,Arkansas-White-Red Region,1345568.796731031499803,53675466571.856857299804688
+114,Neuse-Pamlico, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Pamlico,30202,Pamlico,3,South Atlantic-Gulf Region,1752788.827422297326848,28654119812.403903961181641
+115,Niihau, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Niihau,200800,Niihau,20,Hawaii Region,68596.300216028423165,187462598.450949907302856
+116,Niobrara, , ,Gulf of Mexico,Mississippi River system,Missouri River,Niobrara,101500,Niobrara,10,Missouri Region,1493242.956355913775042,36470244473.078521728515625
+117,North Canadian, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Upper Beaver,111003,Upper Beaver,11,Arkansas-White-Red Region,1968426.222382901934907,46218622379.624595642089844
+118,North Lahontan, , ,Pacific Ocean,Pacific Ocean Seaboard, ,North Lahontan,180800,North Lahontan,18,California Region,877454.972493755281903,11754429581.263050079345703
+119,North Platte, , ,Gulf of Mexico,Mississippi River system,Missouri River,North Platte,101800,North Platte,10,Missouri Region,2150903.870862965472043,80190367168.177703857421875
+120,Northeastern Lake Michigan-Lake Michigan, , ,Atlantic Ocean,St. Lawrence River, ,Northeastern Lake Michigan,40602,Northeastern Lake Michigan,4,Great Lakes Region,2048746.834702380234376,87305635900.093490600585938
+121,Northeastern Lake Ontario-Lake Ontario-St. Lawrence, , ,Atlantic Ocean,St. Lawrence River, ,Upper St. Lawrence,41503,St. Lawrence,4,Great Lakes Region,1349144.225616271607578,29579513749.234657287597656
+122,Northern Mojave-Mono Lake, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Northern Mojave,180902,Northern Mojave,18,California Region,1859282.144059121143073,73599691374.730804443359375
+123,Northwest Alaska, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Norton Sound,190504,Norton Sound,19,Alaska Region,5267571.770463771186769,178047523173.309143066406250
+124,Northwestern Lake Huron, , ,Atlantic Ocean,St. Lawrence River, ,Northwestern Lake Huron,40700,Northwestern Lake Huron,4,Great Lakes Region,1121721.454767143819481,17968804387.645690917968750
+125,Northwestern Lake Michigan, , ,Atlantic Ocean,St. Lawrence River, ,Northwestern Lake Michigan,40302,Northwestern Lake Michigan,4,Great Lakes Region,1811065.728477232856676,48100353290.614418029785156
+126,Nueces-Southwestern Texas Coastal, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Southwestern Texas Coastal,121102,Southwestern Texas Coastal,12,Texas-Gulf Region,2244829.638987233396620,70540364140.070388793945313
+127,Oahu, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Oahu,200600,Oahu,20,Hawaii Region,207303.241480651166057,1553411778.788414716720581
+128,Ochlockonee, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Ochlockonee,31200,Ochlockonee,3,South Atlantic-Gulf Region,569630.214319863123819,9272917508.134979248046875
+129,Ogeechee-Savannah, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Savannah,30602,Savannah,3,South Atlantic-Gulf Region,1443367.837820223299786,43181752606.810592651367188
+130,Oregon-Washington Coastal, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Washington Coastal,171003,Washington Coastal,17,Pacific Northwest Region,2605183.220320165157318,59157975431.823310852050781
+131,Oregon Closed Basins, , ,Pacific Ocean,Columbia River, ,Oregon Closed Basins,171200,Oregon Closed Basins,17,Pacific Northwest Region,1333699.658277489012107,44984176199.045448303222656
+132,Pascagoula, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Pascagoula,31700,Pascagoula,3,South Atlantic-Gulf Region,1020517.784194243955426,29234236009.335815429687500
+133,Peace-Tampa Bay, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Tampa Bay,31002,Tampa Bay,3,South Atlantic-Gulf Region,1342682.336453405208886,23240606676.254505157470703
+134,Pearl, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Pearl,31800,Pearl,3,South Atlantic-Gulf Region,1007897.847518116352148,22373002780.566673278808594
+135,Pee Dee, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Upper Pee Dee,30402,Upper Pee Dee,3,South Atlantic-Gulf Region,1386820.369053242495283,47974222714.318824768066406
+136,Penobscot, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Penobscot,10200,Penobscot,1,New England Region,1165997.800477080047131,22254320329.181015014648438
+137,Platte, , ,Gulf of Mexico,Mississippi River system,Missouri River,Middle Platte,102002,Middle Platte,10,Missouri Region,1522196.988918775692582,21373878565.721191406250000
+138,Potomac, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Potomac,20700,Potomac,2,Mid Atlantic Region,1765577.902317260159180,37092685817.974372863769531
+139,Powder-Tongue, , ,Gulf of Mexico,Mississippi River system,Missouri River,Tongue,100902,Tongue,10,Missouri Region,1386961.558389778016135,48691394426.866111755371094
+140,Puerto Rico, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Puerto Rico,210100,Puerto Rico,21,Caribbean Region,590021.832084334688261,9040733234.786312103271484
+141,Puget Sound, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Puget Sound,171100,Puget Sound,17,Pacific Northwest Region,2787712.261465556453913,35369911397.476409912109375
+142,Rainy, , ,Hudson Bay,Nelson River, ,Rainy and Winnipeg,90300,Rainy,9,Souris-Red-Rainy Region,1267444.592154232552275,29160481084.645618438720703
+143,Red, , ,Hudson Bay,Nelson River, ,Upper Red (Nelson),90203,Upper Red,9,Souris-Red-Rainy Region,2134837.198954533785582,101458940074.552124023437500
+144,Red-Sulphur, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Red-Saline,111403,Red-Saline,11,Arkansas-White-Red Region,1622108.544271209044382,71574444249.317657470703125
+145,Red-Washita, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Washita,111303,Washita,11,Arkansas-White-Red Region,1896645.111768055940047,64215283938.603057861328125
+146,Red Headwaters, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Salt Fork Red,111203,Salt Fork Red,11,Arkansas-White-Red Region,1254408.611348124453798,38355193860.308166503906250
+147,Republican, , ,Gulf of Mexico,Mississippi River system,Missouri River,Republican,102500,Republican,10,Missouri Region,1677675.780737905064598,64668070590.027122497558594
+148,Richelieu, , ,Atlantic Ocean,St. Lawrence River, ,Richelieu,20100,Richelieu,2,Mid Atlantic Region,842401.532710675382987,19888486289.119590759277344
+149,Rio Grande-Amistad, , ,Gulf of Mexico,Rio Grande, ,Rio Grande-Fort Quitman,130403,Rio Grande-Fort Quitman,13,Rio Grande Region,2121737.018473204225302,47991228308.801742553710938
+150,Rio Grande-Elephant Butte, , ,Gulf of Mexico,Rio Grande, ,Upper Rio Grande,130202,Upper Rio Grande,13,Rio Grande Region,1660852.753764326684177,69988641567.003295898437500
+151,Rio Grande-Falcon, , ,Gulf of Mexico,Rio Grande, ,Rio Grande-Falcon,130800,Rio Grande-Falcon,13,Rio Grande Region,1006530.209891588543542,13389785748.058752059936523
+152,Rio Grande-Mimbres, , ,Gulf of Mexico,Rio Grande, ,Rio Grande-Caballo,130302,Rio Grande-Caballo,13,Rio Grande Region,951658.183128237258643,29617220256.773017883300781
+153,Rio Grande Closed Basins, , ,Gulf of Mexico,Rio Grande, ,Rio Grande Closed Basins,130500,Rio Grande Closed Basins,13,Rio Grande Region,1638146.587703979341313,45491999121.219192504882813
+154,Rio Grande Headwaters, , ,Gulf of Mexico,Rio Grande, ,Rio Grande Headwaters,130100,Rio Grande Headwaters,13,Rio Grande Region,766008.024372067651711,19777275221.009807586669922
+155,Rock, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Rock,70900,Rock,7,Upper Mississippi Region,1071008.693459868663922,28367652715.342510223388672
+156,Sabine, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Sabine,120100,Sabine,12,Texas-Gulf Region,1290318.449509583879262,25559829363.331348419189453
+157,Saco, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Saco,10600,Saco,1,New England Region,752504.728610213263892,10814011125.350734710693359
+158,Sacramento, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Upper Sacramento,180201,Upper Sacramento,18,California Region,1818954.907213349826634,71883083317.455657958984375
+159,Salt, , ,Pacific Ocean,Colorado River, ,Verde,150602,Verde,15,Lower Colorado Region,1484947.810493314871565,34870506621.802421569824219
+160,San Francisco Bay, , ,Pacific Ocean,Pacific Ocean Seaboard, ,San Francisco Bay,180500,San Francisco Bay,18,California Region,929873.436055322177708,10476076020.140316009521484
+161,San Joaquin, , ,Pacific Ocean,Pacific Ocean Seaboard, ,San Joaquin,180400,San Joaquin,18,California Region,1044064.403406931553036,40987422130.401557922363281
+162,San Juan, , ,Pacific Ocean,Colorado River, ,Upper San Juan,140802,Upper San Juan,14,Upper Colorado Region,1433510.814678244059905,64945992216.601875305175781
+163,Saskatchewan, , ,Hudson Bay,Nelson River, ,Upper South Saskatchewan,100100,Saskatchewan,10,Missouri Region,241499.626994043384911,1785053548.976087808609009
+164,Scioto, , ,Gulf of Mexico,Mississippi River system,Ohio River,Scioto,50600,Scioto,5,Ohio Region,871988.558425825904123,16856323636.342834472656250
+165,Smoky Hill, , ,Gulf of Mexico,Mississippi River system,Missouri River,Smoky Hill,102600,Smoky Hill,10,Missouri Region,1333185.942578837275505,51829446938.499038696289063
+166,Sonora, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Sonora Sur,150803,Rio Sonoyta,15,Lower Colorado Region,1142789.288285093382001,12009180902.795063018798828
+167,Souris, , ,Hudson Bay,Nelson River, ,Souris,90100,Souris,9,Souris-Red-Rainy Region,1004520.434304619673640,22844813085.009002685546875
+168,South Platte, , ,Gulf of Mexico,Mississippi River system,Missouri River,South Platte,101900,South Platte,10,Missouri Region,1531275.977484099101275,62443259046.640380859375000
+169,Southcentral Alaska, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Western Cook Inlet,190207,Western Cook Inlet,19,Alaska Region,10780699.086957238614559,208043506606.300476074218750
+170,Southeast Alaska, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Southern Boundary Ranges,190104,Southern Southeast Alaska,19,Alaska Region,11206424.994190899655223,103777906147.256713867187500
+171,Southeastern Lake Michigan, , ,Atlantic Ocean,St. Lawrence River, ,Southeastern Lake Michigan,40500,Southeastern Lake Michigan,4,Great Lakes Region,892356.421289597870782,33346237841.611705780029297
+172,Southeastern Lake Ontario, , ,Atlantic Ocean,St. Lawrence River, ,Southeastern Lake Ontario,41402,Southeastern Lake Ontario,4,Great Lakes Region,799270.562153158825822,17700579402.676239013671875
+173,Southern California Coastal, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Ventura-San Gabriel Coastal,180703,Ventura-San Gabriel Coastal,18,California Region,1283970.162931844824925,28757757616.546951293945313
+174,Southern Florida., , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Southern Flordia,30902,Southern Flordia,3,South Atlantic-Gulf Region,2325008.140989778563380,42210273760.911674499511719
+175,Southern Lake Erie, , ,Atlantic Ocean,St. Lawrence River, ,Southern Lake Erie,41100,Southern Lake Erie,4,Great Lakes Region,519631.484125492977910,7741196523.777146339416504
+176,Southern Lake Superior-Lake Superior, , ,Atlantic Ocean,St. Lawrence River, ,Southeastern Lake Superior,40203,Southeastern Lake Superior,4,Great Lakes Region,1907470.759172966703773,72339278273.493774414062500
+177,Southern Mojave-Salton Sea, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Southern Mojave,181002,Southern Mojave,18,California Region,1181633.135075702797621,41373842445.177467346191406
+178,Southwest Alaska, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Upper Kuskokwim River,190305,Upper Kuskokwim River,19,Alaska Region,11442594.363234456628561,290104666045.312316894531250
+179,Southwestern Lake Huron-Lake Huron, , ,Atlantic Ocean,St. Lawrence River, ,Southwestern Lake Huron,40803,Southwestern Lake Huron,4,Great Lakes Region,1767238.837555637815967,47118929028.183044433593750
+180,Southwestern Lake Michigan, , ,Atlantic Ocean,St. Lawrence River, ,Southwestern Lake Michigan,40400,Southwestern Lake Michigan,4,Great Lakes Region,934884.458578207879327,5156764627.949777603149414
+181,Southwestern Lake Ontario, , ,Atlantic Ocean,St. Lawrence River, ,Southwestern Lake Ontario,41300,Southwestern Lake Ontario,4,Great Lakes Region,596227.811129682930186,9277469680.979957580566406
+182,St. Clair-Detroit, , ,Atlantic Ocean,St. Lawrence River, ,St. Clair-Detroit,40900,St. Clair-Detroit,4,Great Lakes Region,639332.850406808312982,9698088044.153482437133789
+183,St. Croix, , ,Gulf of Mexico,Mississippi River system,Mississippi River,St. Croix,70300,St. Croix,7,Upper Mississippi Region,917083.475898640928790,19883369174.587512969970703
+184,St. Francois, , ,Atlantic Ocean,St. Lawrence River, ,Central St. Lawrence,11100,St. Francois,1,New England Region,195920.637560990347993,1527168576.435565948486328
+185,St. John, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,St. John,10100,St. John,1,New England Region,816038.974925867980346,18829599696.269824981689453
+186,St. Johns, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,St. Johns,30802,St. Johns,3,South Atlantic-Gulf Region,2007310.009819553233683,28978105833.800964355468750
+187,Susquehanna, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,West Branch Susquehanna,20503,West Branch Susquehanna,2,Mid Atlantic Region,1921014.837494281819090,70985363642.400360107421875
+188,Suwannee, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Suwannee,31102,Suwannee,3,South Atlantic-Gulf Region,1149985.072725784732029,34935446183.811019897460938
+189,Trinity, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Upper Trinity,120302,Upper Trinity,12,Texas-Gulf Region,1596452.421771400142461,46459099781.043304443359375
+190,Tulare-Buena Vista Lakes, , ,Pacific Ocean,Pacific Ocean Seaboard, ,Tulare-Buena Vista Lakes,180300,Tulare-Buena Vista Lakes,18,California Region,908331.316469760262407,42571716448.358856201171875
+191,Upper Arkansas, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Upper Arkansas,110200,Upper Arkansas,11,Arkansas-White-Red Region,1405079.744335328228772,64505572177.989730834960938
+192,Upper Canadian, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Upper Canadian,110800,Upper Canadian,11,Arkansas-White-Red Region,898438.548633349477313,32396147169.080612182617188
+193,Upper Chesapeake, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Upper Chesapeake,20600,Upper Chesapeake,2,Mid Atlantic Region,2047843.737961139064282,18213186480.382720947265625
+194,Upper Cimarron, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Upper Cimarron,110400,Upper Cimarron,11,Arkansas-White-Red Region,1095867.764096918283030,31222320300.442226409912109
+195,Upper Colorado, , ,Gulf of Mexico,Gulf of Mexico Seaboard, ,Upper Colorado,120800,Upper Colorado,12,Texas-Gulf Region,1117378.243806618964300,41563653971.198593139648438
+196,Upper Colorado-Dirty Devil, , ,Pacific Ocean,Colorado River, ,Upper Colorado-Dirty Devil,140700,Upper Colorado-Dirty Devil,14,Upper Colorado Region,1004003.990639189840294,35357412304.887756347656250
+197,Upper Colorado-Dolores, , ,Pacific Ocean,Colorado River, ,Upper Colorado-Dolores,140300,Upper Colorado-Dolores,14,Upper Colorado Region,814929.669602140667848,21663427636.623001098632813
+198,Upper Columbia, , ,Pacific Ocean,Columbia River, ,Upper Columbia,170200,Upper Columbia,17,Pacific Northwest Region,1323032.290332175092772,57489778594.209167480468750
+199,Upper Gila, , ,Pacific Ocean,Colorado River, ,Upper Gila,150400,Upper Gila,15,Lower Colorado Region,1245582.706489381147549,39531132218.415100097656250
+200,Upper Hudson, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Upper Hudson,20200,Upper Hudson,2,Mid Atlantic Region,1400735.949752015061677,33982906697.452774047851563
+201,Upper Illinois, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Illinois,71200,Upper Illinois,7,Upper Mississippi Region,1302665.712376971961930,28367196162.939971923828125
+202,Upper Mississippi-Black-Root, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Black-Root,70400,Upper Mississippi-Black-Root,7,Upper Mississippi Region,1203259.618869504891336,27705693950.427650451660156
+203,Upper Mississippi-Iowa-Skunk-Wapsipinicon, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Skunk-Wapsipinicom,70802,Upper Mississippi-Skunk-Wapsipinicom,7,Upper Mississippi Region,1438869.243092230753973,59367505444.481781005859375
+204,Upper Mississippi-Kaskaskia-Meramec, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Meramec,71402,Upper Mississippi-Meramec,7,Upper Mississippi Region,2254868.540861140936613,46967144875.047065734863281
+205,Upper Mississippi-Maquoketa-Plum, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Maquoketa-Plum,70600,Upper Mississippi-Maquoketa-Plum,7,Upper Mississippi Region,865426.895036703557707,22319981317.347873687744141
+206,Upper Mississippi-Salt, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Upper Mississippi-Salt,71100,Upper Mississippi-Salt,7,Upper Mississippi Region,950060.494707723497413,25994418224.926055908203125
+207,Upper Ohio, , ,Gulf of Mexico,Mississippi River system,Ohio River,Upper Ohio-Little Kanawha,50302,Upper Ohio-Little Kanawha,5,Ohio Region,1501828.735807304037735,34670025021.004013061523438
+208,Upper Pecos, , ,Gulf of Mexico,Rio Grande, ,Upper Pecos,130600,Upper Pecos,13,Rio Grande Region,1385562.243217692710459,61159141623.319625854492188
+209,Upper Snake, , ,Pacific Ocean,Columbia River, ,Upper Snake,170402,Upper Snake,17,Pacific Northwest Region,1951879.374295654706657,92922386144.914016723632813
+210,Upper Tennessee, , ,Gulf of Mexico,Mississippi River system,Ohio River,Upper Tennessee,60102,Upper Tennessee,6,Tennessee Region,1330693.424405422760174,44768234970.433235168457031
+211,Upper White, , ,Gulf of Mexico,Mississippi River system,Arkansas River,Upper White,110100,Upper White,11,Arkansas-White-Red Region,1328728.158620932372287,57871059111.197608947753906
+212,Upper Yellowstone, , ,Gulf of Mexico,Mississippi River system,Missouri River,Upper Yellowstone,100700,Upper Yellowstone,10,Missouri Region,1224837.214205051539466,37343544307.894927978515625
+213,Virgin Islands, , ,Atlantic Ocean,Atlantic Ocean Seaboard, ,Virgin Islands,210200,Virgin Islands,21,Caribbean Region,174441.656013998086564,374002452.985494434833527
+214,Wabash, , ,Gulf of Mexico,Mississippi River system,Ohio River,Wabash,51202,Wabash,5,Ohio Region,1661036.459782844875008,85298504394.864547729492188
+215,Western Lake Erie, , ,Atlantic Ocean,St. Lawrence River, ,Western Lake Erie,41000,Western Lake Erie,4,Great Lakes Region,1011554.916852126480080,30744969492.352531433105469
+216,Western Lake Superior, , ,Atlantic Ocean,St. Lawrence River, ,St. Louis,40103,St. Louis,4,Great Lakes Region,1542289.915279033826664,23838962762.933589935302734
+217,White-Yampa, , ,Pacific Ocean,Colorado River, ,White-Yampa,140500,White-Yampa,14,Upper Colorado Region,1000924.962027772795409,34101917103.350593566894531
+218,Willamette, , ,Pacific Ocean,Columbia River, ,Willamette,170900,Willamette,17,Pacific Northwest Region,918668.016660452703945,30264262742.588550567626953
+219,Wisconsin, , ,Gulf of Mexico,Mississippi River system,Mississippi River,Wisconsin,70700,Wisconsin,7,Upper Mississippi Region,1263837.835496387444437,30820022809.463836669921875
+220,Yakima, , ,Pacific Ocean,Columbia River, ,Yakima,170300,Yakima,17,Pacific Northwest Region,680859.409196013701148,15898086839.975372314453125
+221,Yukon Alaska, , ,Pacific Ocean,Yukon River, ,Upper Yukon,190408,Upper Yukon River,19,Alaska Region,5870199.225424693897367,521765166219.341003417968750
